@@ -17,7 +17,7 @@ GPS觀測資料的索取方式為登入後，於資料索取頁面提交所要�
 3. 個人環境中安裝所需的python套件。
 
 # 如何使用
-python download_cwb_gdms_data.py [start_year] [start_doy] [end_year] [end_doy]
+`python download_cwb_gdms_data.py [start_year] [start_doy] [end_year] [end_doy]`
 
 
 指令後面接的變數依序代表索取資料的 時間開始年份、時間開始doy、時間結束年份、時間結束doy
